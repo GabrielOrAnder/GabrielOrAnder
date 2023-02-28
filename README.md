@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielOrAnder also know as Anderson Gabriel Ferreira.
-- 👀 I’m interested in Web and Mobile development.
-- 🌱 I’m currently learning Kotlin and Project Architecture.
+- 👀 I’m interested in Android Mobile development.
+- 🌱 I’m currently improving Kotlin and Project Architecture.
 - 📫 you can reach me by e-mail anderson.gabriel.ferreira@gmail.com
 
 <!---
